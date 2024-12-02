@@ -1,0 +1,44 @@
+body{
+	background-color: #262626;
+}
+.main-Form{
+	background-color: rgba(37, 92, 153, 0.89);
+	text-align: center;
+}
+.row-Divider1{
+	height: 12px;
+	background-color: #7EA3CC;
+}
+.f-Settings{
+	text-align: center;
+}
+.in-1{
+	font-size: 17px;
+	transition: all 0.2s ease-in;
+}
+.in-1:hover{
+	box-shadow: 2px 4px #7EA3CC;
+}
+.In2{
+	height: 20px;
+	width: 20px;
+	border-radius: 4px;	
+	transition: all 0.2s eae-in;
+}
+.In2:hover{
+	box-shadow: 2px 4px #262626;
+	cursor: pointer;
+}
+.text-To-Left{
+	text-align: left;
+}
+.drop-Bg-Col{
+	background-color: #262626;
+}
+.text-Drop-Light{
+	color: white;
+}
+.text-Align-Center{
+	text-align: center;
+}
+
